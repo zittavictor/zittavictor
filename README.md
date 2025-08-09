@@ -1,5 +1,5 @@
 <!-- Banner -->
-<h1 align="center">👋 Hi, I'm Zitta Victor</h1>
+<h1 align="center"> Hi, I'm Zitta Victor</h1>
 <h3 align="center">📊 Data Scientist | Python Enthusiast | AI Explorer</h3>
 
 <p align="center">
@@ -26,9 +26,6 @@ I’m a **data science enthusiast** with a strong foundation in **Python** and a
 **Languages & Tools:**  
 <p>
   <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
 </p>
 
 **Libraries & Frameworks:**  
@@ -57,7 +54,7 @@ I’m a **data science enthusiast** with a strong foundation in **Python** and a
 Simple Machine learning application tracking system that predicts whether a loan applicant is eligible or not
 🔗 [View Project](#)
 
-### ❤️ Heart Disease Prediction  
+###  Heart Disease Prediction  
 Machine learning model to aid doctors in early heart disease detection.  
 🔗 [View Project](#)
 
@@ -75,10 +72,10 @@ Machine learning model to aid doctors in early heart disease detection.
 
 ---
 
-## 📬 Connect With Me  
+##  Connect With Me  
 
 <p>
-  <a href="mailto:zittavictor@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:zittavictor26@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/zittavictor"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/zittavictor"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
 </p>
