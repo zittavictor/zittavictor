@@ -1,6 +1,6 @@
 <!-- Banner -->
 <h1 align="center"> Hi, I'm Zitta Victor</h1>
-<h3 align="center">📊Data Scientist | Python Enthusiast | AI Explorer</h3>
+<h3 align="center">Data Scientist | Python Enthusiast | AI Explorer</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Expert-blue?logo=python&logoColor=white" />
