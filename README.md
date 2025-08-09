@@ -1,6 +1,6 @@
 <!-- Banner -->
 <h1 align="center"> Hi, I'm Zitta Victor</h1>
-<h3 align="center">📊 Data Scientist | Python Enthusiast | AI Explorer</h3>
+<h3 align="center">📊Data Scientist | Python Enthusiast | AI Explorer</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Expert-blue?logo=python&logoColor=white" />
@@ -58,7 +58,8 @@ Simple Machine learning application tracking system that predicts whether a loan
 Machine learning model to aid doctors in early heart disease detection.  
 🔗 [View Project](#)
 
-### 📦 Credit Card Fraud Detection System Machine learning pipeline that detects fraudulent credit card transactions.
+###  Credit Card Fraud Detection System 
+Machine learning pipeline that detects fraudulent credit card transactions.
 🔗 [View Project](#)
 
 ---
