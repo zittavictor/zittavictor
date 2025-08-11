@@ -16,7 +16,6 @@ I’m a **data science enthusiast** with a strong foundation in **Python** and a
 
  Always learning and experimenting with:
 - **Machine Learning** & **Deep Learning**
-- **Computer Vision** & **AI Applications**
 - **Data Visualization** & **Storytelling**
 
 ---
