@@ -12,7 +12,7 @@
 ---
 
 ## About Me  
-I’m a **data science enthusiast** with a strong foundation in **Python** and a passion for building intelligent, data-driven solutions. I enjoy transforming raw data into clear insights and creating machine learning models that make a real-world impact.
+I’m a **data science enthusiast** with a strong foundation in **Python** and a passion for building intelligent, data driven solutions. I enjoy transforming raw data into clear insights and creating machine learning models that make a real-world impact.
 
  Always learning and experimenting with:
 - **Machine Learning** & **Deep Learning**
