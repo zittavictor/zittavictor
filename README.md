@@ -47,7 +47,7 @@ I’m a **data science enthusiast** with a strong foundation in **Python** and a
 
 ---
 
-## 📂 Featured Projects  
+## Featured Projects  
 
 ### Loan Eligibility System 
 Simple Machine learning application tracking system that predicts whether a loan applicant is eligible or not
@@ -63,7 +63,7 @@ Machine learning pipeline that detects fraudulent credit card transactions.
 
 ---
 
-## 📊 GitHub Stats  
+##  GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zittavictor&show_icons=true&theme=tokyonight" alt="GitHub stats" width="48%"/>
